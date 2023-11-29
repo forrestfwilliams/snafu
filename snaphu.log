@@ -1,0 +1,26 @@
+
+snaphu v2.0.5
+16 parameters input from file snaphu.conf (45 lines total)
+Reading unwrapped phase from file bursts_unwrapped.bin
+Reading byte mask from file bursts_mask.bin
+No weight file specified.  Assuming uniform weights
+Reading correlation data from file bursts_correlation.bin
+Calculating deformation-mode cost parameters
+Running nonlinear network flow optimizer
+Maximum flow on network: 17
+Flow increment: 1  (Total improvements: 0)
+937 incremental costs clipped to avoid overflow (0.000%)
+Found 1 valid set(s) of connected nodes
+Flow increment: 2  (Total improvements: 40713)
+Found 1 valid set(s) of connected nodes
+Flow increment: 3  (Total improvements: 40713)
+Found 1 valid set(s) of connected nodes
+Flow increment: 4  (Total improvements: 40713)
+Found 1 valid set(s) of connected nodes
+Maximum flow on network: 4
+Total solution cost: 115698849
+Integrating phase
+Writing output to file bursts_reunwrapped.bin
+Program snaphu done
+Elapsed processor time:   0:21:22.43
+Elapsed wall clock time:  0:21:24
